@@ -526,6 +526,7 @@ namespace ISM6225_Assignment_2_Spring_2022
                             {
                                 temp = temp.Remove(temp.Length - 1);
                                 count = count - 1;
+
                             }
                             else
                             {
