@@ -520,7 +520,6 @@ namespace ISM6225_Assignment_2_Spring_2022
                     }
                     else
                     {
-                        Console.WriteLine("inside the else:{0}", count);
                         if (count > 0)
                         {
                             if (bulls_string10[i] == myDict[temp[count - 1]])
